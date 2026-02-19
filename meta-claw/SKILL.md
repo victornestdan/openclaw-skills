@@ -226,9 +226,8 @@ Mission fees → $MCLAW treasury → Pay agent inference → More missions compl
 
 ## Resources
 
-- Website: https://metaclaw.xyz
+- Website: https://metaclaw.online
 - GitHub: https://github.com/victornestdan/openclaw-skills
-- Telegram Bot: @MetaClawBot
-- Twitter: @metaclaw_xyz
+- Twitter: @metaclawbot
 - $MCLAW on Base: [contract address after launch]
 
